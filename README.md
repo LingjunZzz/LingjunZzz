@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zoe Z
+ 👋 Hi, I’m Zoe Z
 
-- 🌱 I’m currently learning microbiome analysis
+ 🌱 I’m currently learning microbiome analysis
 
 
 <!---
